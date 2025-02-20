@@ -1,0 +1,4 @@
+GET https://miniature-palm-tree-x7pqvrrvqjq3vqvw-3000.app.github.dev/api/tarefas
+
+###
+POST https://miniature-palm-tree-x7pqvrrvqjq3vqvw-3000.app.github.dev/api/tarefas
